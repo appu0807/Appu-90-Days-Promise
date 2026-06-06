@@ -1,0 +1,6 @@
+{
+  "name": "90 Days Life Program",
+  "description": "A serene, mobile-friendly personal operating system to track health, creativity, visibility, money, and spiritual growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
